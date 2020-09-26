@@ -14,3 +14,4 @@ This repository contains all of the source code used in the course called HTML, 
 # Outputs :
 
 * [Module-2](https://dipsaili2001.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module2-solution/index.html)
+* [Module-3](https://dipsaili2001.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module3-solution/index.html)
